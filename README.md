@@ -41,7 +41,7 @@ int main() {
 hasilnya:
 ![ing](
 
-## Latihan2.cpp : 
+## Latihan2.cpp : mengurutkan bilangan terkecil hingga ke terbesar
 
 **Alur algoritma**
 1. Mendeklarasikan variabel `int A,B,C` sebagai variabel input
@@ -60,7 +60,7 @@ hasilnya:
 14. Lalu, END.
 
 **Flowchart Program**
-![Flowchart](
+![Flowchart](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum3/master/Latihan2/FLowchart%20Lat2.png)
 
 **code program lengkap:**
 ```c++
@@ -98,7 +98,7 @@ int main(){
 ```
 
 hasilnya :
-![ing](
+![ing](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum3/master/Latihan2/Screenshot%20(23).png)
 
 ## Latihan3.cpp : Mencetak nilai tengah dari 3 buah bilangan yang diinputkan 
 
@@ -158,4 +158,4 @@ int main () {
 ```
 
 hasilnya :
-![ing](
+![ing](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum3/master/Latihan3/Screenshot%20(20).png)
