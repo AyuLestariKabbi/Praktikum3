@@ -119,7 +119,7 @@ hasilnya :
 14. Lalu, END.
 
 **Flowchart Program**
-![Flowchart](
+![Flowchart](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum3/master/Latihan3/Flowchart%20Lat3.png)
 
 **code program lengkap:**
 ```c++
@@ -158,5 +158,4 @@ int main () {
 ```
 
 hasilnya :
-![ing](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum3/master/Latihan3/Screenshot%20(20).png)
-# Praktikum3
+![ing](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum3/master/Latihan3/Screenshot%20(20).png)# praktikum3
