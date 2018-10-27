@@ -159,3 +159,4 @@ int main () {
 
 hasilnya :
 ![ing](https://raw.githubusercontent.com/AyuLestariKabbi/Praktikum3/master/Latihan3/Screenshot%20(20).png)
+# Praktikum3
