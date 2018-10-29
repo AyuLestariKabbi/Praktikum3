@@ -10,7 +10,7 @@
 5. Print bilangan terbesar dari semua bilangan yang di inputkan.
 
 **Flowchart Program**
-![Flowchart](
+![Flowchart](https://raw.githubusercontent.com/AyuLestariKabbi/praktikum3/master/Flowchart%20Lat1.jpg)
 
 **code program lengkap:**
 ```c++
@@ -39,7 +39,7 @@ int main() {
 ```
 
 hasilnya:
-![ing](
+![ing](https://raw.githubusercontent.com/AyuLestariKabbi/praktikum3/master/Screenshoot.jpg)
 
 ## Latihan2.cpp : mengurutkan bilangan terkecil hingga ke terbesar
 
